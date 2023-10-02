@@ -139,15 +139,18 @@ networkmanager
 android-file-transfer
 
 #Desktop
+mate
+mate-extra
+sddm
 
 #systemutils
 btop
 xdg-user-dirs
 packagekit-qt5
 neofetch-git
-ttf-ms-fonts
-parch-firefox-config
+ttf-dejavu
 firefox
+parch-grub
 
 #parchlinuxstuff
 calamares
@@ -157,3 +160,7 @@ paru
 parch-emoji-ios
 parch-branding
 parch-pacman
+parch-welcome
+fira-code-font
+fira-code-mono
+vazirmatn-fonts

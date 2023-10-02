@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="Parchlinux"
-iso_label="PARCH_$(date +%Y%m)"
+iso_name="Parchlinux Mate"
+iso_label="PARCH_LINUX_MATE_$(date +%Y%m)"
 iso_publisher="Parch Linux <https://parchlinux.ir>"
 iso_application="Parch Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
