@@ -151,10 +151,11 @@ neofetch-git
 ttf-dejavu
 firefox
 parch-grub
+network-manager-applet
 
 #parchlinuxstuff
 calamares
-parchlinux-cala-config
+calamares-parch
 os-prober
 paru
 parch-emoji-ios
